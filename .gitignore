@@ -1,0 +1,17 @@
+﻿# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temp
+*.tmp
+*.log
+*.bak
+
+# MCP / environment / injected tools (not part of the skill)
+mcps/
